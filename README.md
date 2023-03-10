@@ -46,7 +46,8 @@ Give examples
 - Bachelor degrees, in Management information systems and statistics from Hankok University of Foreign Studies
 
 ### :bulb:Experience
-- [present] Associate, AXA as data scientist
+- [Present] Associate, AXA as data scientist
+(2020.08~)
 - Internship, Agilesoda as data consultant
 (2018.12~2019.06)
 
