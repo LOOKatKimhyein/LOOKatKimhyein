@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there,👋
+## Hyein/Data Analyst
 
 <!--
 **LOOKatKimhyein/LOOKatKimhyein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
